@@ -7,3 +7,4 @@ carrots
 cereals
 cucumbers
 raddishes
+walnuts
