@@ -7,4 +7,4 @@ carrots
 cereals
 cucumbers
 raddishes
-walnuts
+ENGLISH walnuts
